@@ -1,0 +1,3 @@
+/home/saha/life/OOP/build/CMakeFiles/prog.exe.dir
+/home/saha/life/OOP/build/CMakeFiles/edit_cache.dir
+/home/saha/life/OOP/build/CMakeFiles/rebuild_cache.dir
