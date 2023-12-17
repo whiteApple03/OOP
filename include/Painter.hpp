@@ -3,7 +3,7 @@
 
 class Painter {
 public:
-    Painter(){};
-    virtual void print_figure(){};
-    virtual void display(){};
+  Painter(){};
+  virtual void print_figure(){};
+  virtual void display(){};
 };
